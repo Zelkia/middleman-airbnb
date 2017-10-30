@@ -1,4 +1,4 @@
-#home {
+#team {
   background-color: $green;
   color: white;
   height: 100vh;
@@ -8,11 +8,10 @@
   text-align: center;
   p {
     margin-top: 1.5em;
-    font-size: 24px;
   }
   a {
-    color: $orange;
+    color: rgba(255,255,255,1);
     font-weight: bold;
-    font-size: 20px;
+    font-size: 16px;
   }
 }
