@@ -1,0 +1,7 @@
+<% plane = data.planes[owner] %>
+
+<!-- Inject plane data in template -->
+<%= image_tag "#{plane.spitfire_slug}.jpg", class: "banner" %>
+<p><%= plane.name %></p>
+<h1><%= plane.description %></h1>
+<p><%= plane.city_name %></p>

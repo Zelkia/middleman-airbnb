@@ -1,0 +1,42 @@
+owner_1:
+  name         : "Mk I"
+  description  : 8x Browning MG
+  city_name    : "Dover"
+  spitfire_slug: "spit_1"
+  operational  : false
+  rating       : 4
+owner_2:
+  name         : "Mk IIa"
+  description  : 8x Browning MG
+  city_name    : "Kent"
+  spitfire_slug: "spit_2"
+  operational  : false
+  rating       : 3
+owner_3:
+  name         : "Mk Vb"
+  description  : 2x 20mm 'Hispano' Cannon, 4x Browning MG
+  city_name    : "East Anglia"
+  spitfire_slug: "spit_3"
+  operational  : true
+  rating       : 5
+owner_4:
+  name         : "Mk IX"
+  description  : 2x 20mm 'Hispano' Cannon, 4x Browning MG
+  city_name    : "Surrey"
+  spitfire_slug: "spit_4"
+  operational  : false
+  rating       : 5
+owner_5:
+  name         : "not a spitfire at all..."
+  description  : Big scary bang bang
+  city_name    : "Normandy"
+  spitfire_slug: "spit_5"
+  operational  : false
+  rating       : 1
+owner_6:
+  name         : "Mk XIV"
+  description  : 4x 20mm 'Hispano' Cannon
+  city_name    : "North Africa"
+  spitfire_slug: "spit_6"
+  operational  : false
+  rating       : 5
